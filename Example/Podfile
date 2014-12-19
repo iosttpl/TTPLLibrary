@@ -1,0 +1,8 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+
+target 'TTPLLibrary', :exclusive => true do
+  pod "TTPLLibrary", :path => "../"
+
+  
+end
